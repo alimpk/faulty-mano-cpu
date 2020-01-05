@@ -1,0 +1,32 @@
+m255
+K4
+z2
+!s11f vlog 2019.2 2019.04, Apr 17 2019
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 d/home/ali/Projects/Academic/mscourse/ftd/faulty-mano-cpu/src/rtl
+valu
+!s110 1579780768
+!i10b 1
+!s100 PCWSJl@nli]f^_X27Pi@B3
+!s11b SdiZ[P86dK3oEa:BKKV]^2
+IF2JmD;6UjfF3]^4El5=PX1
+VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1579778843
+8mano_alu.v
+Fmano_alu.v
+L0 11
+OV;L;2019.2;69
+r1
+!s85 0
+31
+!s108 1579780768.000000
+!s107 basic_params.v|mano_alu.v|
+!s90 mano_alu.v|
+!i113 1
+tCvgOpt 0
