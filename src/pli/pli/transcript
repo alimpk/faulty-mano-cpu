@@ -1,0 +1,17 @@
+# vsim -c counter_tb -pli "pli_full_example.sl" 
+# Start time: 15:21:00 on Jan 23,2020
+# Loading work.counter_tb
+# Loading work.counter
+# Loading ./pli_full_example.sl
+# 0 , Asserting reset
+# 0, Warning : X detected
+# 0, Warning : X detected
+# 0, Warning : X detected
+# 0, Warning : X detected
+# 0, dut_info  : Expect value 0, Got value 0
+# 10, dut_info : Counter is reset
+# 15, dut_info : Counter is reset
+# 20, Asserting Enable
+# 20, dut_error : Expect value 0, Got value 1
+# End time: 15:21:04 on Jan 23,2020, Elapsed time: 0:00:04
+# Errors: 0, Warnings: 0

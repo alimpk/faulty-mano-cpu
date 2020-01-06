@@ -1,0 +1,53 @@
+m255
+K4
+z2
+!s11f vlog 2019.2 2019.04, Apr 17 2019
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 d/home/ali/Projects/Academic/mscourse/ftd/faulty-mano-cpu/src/pli
+vcounter
+Z1 !s110 1579636292
+!i10b 1
+!s100 >NEibG2F]l6X3MzAig3mB0
+!s11b JTVLbXYF3>7YaD[l[NV]I1
+In4L4ce[XI7D9XN`^i7W0]1
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1579621247
+8counter.v
+Fcounter.v
+L0 1
+Z3 OV;L;2019.2;69
+r1
+!s85 0
+31
+Z4 !s108 1579636292.000000
+!s107 counter.v|pli_counter_tb.v|
+Z5 !s90 pli_counter_tb.v|counter.v|
+!i113 1
+Z6 tCvgOpt 0
+vcounter_tb
+R1
+!i10b 1
+!s100 QCgbSeQ84chRdO3`Q5ZY53
+!s11b 2FBK8Me8:ZX;<4Bz0gc0e0
+IA=HNP:T4DhaMC3>kl5GH72
+R2
+R0
+w1579619465
+8pli_counter_tb.v
+Fpli_counter_tb.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+Z7 !s107 counter.v|pli_counter_tb.v|
+R5
+!i113 1
+R6

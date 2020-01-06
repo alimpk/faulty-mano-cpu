@@ -1,0 +1,8 @@
+# vsim -c alu -pli "pli_modelsim.sl" 
+# Start time: 15:30:50 on Jan 23,2020
+# ** Error: (vsim-3170) Could not find 'alu'.
+#         Searched libraries:
+#             /home/ali/Projects/Academic/mscourse/ftd/faulty-mano-cpu/src/pli/work
+# Error loading design
+# End time: 15:30:50 on Jan 23,2020, Elapsed time: 0:00:00
+# Errors: 1, Warnings: 0
