@@ -1,0 +1,231 @@
+m255
+K4
+z2
+!s11f vlog 2019.2 2019.04, Apr 17 2019
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 d/home/ali/Projects/Academic/mscourse/ftd/faulty-mano-cpu/src/sim
+valu
+Z1 !s110 1579791050
+!i10b 1
+!s100 P?@>ckiojfJf4fSTe6^m<1
+!s11b mJa]UGG3><UOOo?;eX?1F3
+I]ZFYjT[1d[_@aDzZ[[8<62
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1579787147
+8../rtl/mano_alu.v
+F../rtl/mano_alu.v
+L0 11
+Z3 OV;L;2019.2;69
+r1
+!s85 0
+31
+Z4 !s108 1579791050.000000
+!s107 ../rtl/basic_params.v|../rtl/mano_alu.v|
+!s90 -reportprogress|300|-work|work|../rtl/mano_alu.v|
+!i113 1
+Z5 o-work work
+Z6 tCvgOpt 0
+vcntr
+R1
+!i10b 1
+!s100 jJ7:LD2OL2ii:ITh`O[Xk1
+!s11b ?ES?b2o17;kJEi@CM1gEE1
+InT3T?]A>DLMGGFmfla8M@2
+R2
+R0
+w1579640679
+8../rtl/mano_cntr.v
+F../rtl/mano_cntr.v
+Z7 L0 10
+R3
+r1
+!s85 0
+31
+R4
+!s107 ../rtl/basic_params.v|../rtl/mano_cntr.v|
+!s90 -reportprogress|300|-work|work|../rtl/mano_cntr.v|
+!i113 1
+R5
+R6
+vctrlpath
+R1
+!i10b 1
+!s100 <ZIRkM1jkJKi26aQNf[8;2
+!s11b N4l?8>FD0khdgkb35WbFd3
+Ig<;c>hzeM8kRE^lG5<zS10
+R2
+R0
+w1579708610
+8../rtl/mano_cp.v
+F../rtl/mano_cp.v
+R7
+R3
+r1
+!s85 0
+31
+R4
+!s107 ../rtl/basic_params.v|../rtl/mano_cp.v|
+!s90 -reportprogress|300|-work|work|../rtl/mano_cp.v|
+!i113 1
+R5
+R6
+vdatapath
+R1
+!i10b 1
+!s100 e@Z@YVGF;RGJ>4oDGMag:2
+!s11b 11S5UNi]3h3XWQa3Ana>J0
+IY83^HmnLzFKDa@`G3TzT63
+R2
+R0
+w1579791027
+8../rtl/mano_dp.v
+F../rtl/mano_dp.v
+R7
+R3
+r1
+!s85 0
+31
+R4
+!s107 ../rtl/basic_params.v|../rtl/mano_dp.v|
+!s90 -reportprogress|300|-work|work|../rtl/mano_dp.v|
+!i113 1
+R5
+R6
+vdcd3x8
+R1
+!i10b 1
+!s100 hd8MW@S]EKd:m`eLP4J7z0
+!s11b @hXjFf=?;RYoBgiXR>UMD3
+I>3X9;DZGeBg79]bF5bh`60
+R2
+R0
+w1579216628
+8../rtl/mano_dcd.v
+F../rtl/mano_dcd.v
+R7
+R3
+r1
+!s85 0
+31
+R4
+!s107 ../rtl/basic_params.v|../rtl/mano_dcd.v|
+!s90 -reportprogress|300|-work|work|../rtl/mano_dcd.v|
+!i113 1
+R5
+R6
+vdff
+R1
+!i10b 1
+!s100 :h8LIi=H8Z53dl9>`3zjL0
+!s11b JzJAbo=2G]cALDc9FA64H3
+IR:lncFcDEh3dHZz9[P7B^1
+R2
+R0
+w1579705102
+8../rtl/mano_dff.v
+F../rtl/mano_dff.v
+R7
+R3
+r1
+!s85 0
+31
+R4
+!s107 ../rtl/basic_params.v|../rtl/mano_dff.v|
+!s90 -reportprogress|300|-work|work|../rtl/mano_dff.v|
+!i113 1
+R5
+R6
+vmano_core
+R1
+!i10b 1
+!s100 n`fU3DcGU^oz8dh;;m4NV0
+!s11b hOA=Mm<;kaOEj_a47kPD_1
+I5DSWiARMJ8Goi<g6O9LB?1
+R2
+R0
+w1579705129
+8../rtl/mano_core.v
+F../rtl/mano_core.v
+R7
+R3
+r1
+!s85 0
+31
+R4
+!s107 ../rtl/basic_params.v|../rtl/mano_core.v|
+!s90 -reportprogress|300|-work|work|../rtl/mano_core.v|
+!i113 1
+R5
+R6
+vmano_core_tb
+R1
+!i10b 1
+!s100 l6^EizeELblFhzP=NY@H83
+!s11b WnbIz;YVjNcIzcTnQ0E]32
+Iz8CbHQe=dbM_TM:fHToQo3
+R2
+R0
+w1579640673
+8../rtl/mano_core_tb.v
+F../rtl/mano_core_tb.v
+R7
+R3
+r1
+!s85 0
+31
+R4
+!s107 ../rtl/basic_params.v|../rtl/mano_core_tb.v|
+!s90 -reportprogress|300|-work|work|../rtl/mano_core_tb.v|
+!i113 1
+R5
+R6
+vmem4096x16
+R1
+!i10b 1
+!s100 ?75NG3MPZ^e5A8OkB8U:I3
+!s11b T@6oQnNbZ151eR]3RUJ]R3
+IDmz`?03A1IBMRo2Fik`CU3
+R2
+R0
+w1579692976
+8../rtl/mano_mem.v
+F../rtl/mano_mem.v
+R7
+R3
+r1
+!s85 0
+31
+R4
+!s107 ../rtl/basic_params.v|../rtl/mano_mem.v|
+!s90 -reportprogress|300|-work|work|../rtl/mano_mem.v|
+!i113 1
+R5
+R6
+vregister
+R1
+!i10b 1
+!s100 4OD6lEaP10X_^D2TVl1He0
+!s11b fXRK8idzgg6ZdNo[HDWd93
+IEPzhTod>kf_m3b]aVMf2k1
+R2
+R0
+w1579705116
+8../rtl/mano_reg.v
+F../rtl/mano_reg.v
+R7
+R3
+r1
+!s85 0
+31
+R4
+!s107 ../rtl/basic_params.v|../rtl/mano_reg.v|
+!s90 -reportprogress|300|-work|work|../rtl/mano_reg.v|
+!i113 1
+R5
+R6

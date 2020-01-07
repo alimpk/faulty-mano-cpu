@@ -1,0 +1,7 @@
+A Mano machine assembler written in C for educational purposes.
+
+Usage:
+    manoasm [options] <input file>
+Options:
+    -o <name>   Output file name
+    -R          Generate v2.0 raw file for logisim
