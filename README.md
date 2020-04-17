@@ -1,8 +1,8 @@
 # faulty-mano-cpu
-###Fault Tolerance Design Course Project
+### Fault Tolerance Design Course Project
 This Project is my MSc Fault Tolerance Course Final Project. 
 
-### SYNOPIS
+## SYNOPIS
 This project has two sub-projects
 
 #### Mano Processor Implementation
